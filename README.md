@@ -27,4 +27,12 @@ pod 'HeightPickerView'
 
 ## Usage
 
+If you're using Storyboards/Interface Builder you can create a HeightPickerView instance by adding a UITextField to your Storyboard, and then manually changing the view's class to HeightPickerView in the "Custom Class" field of the Identity Inspector tab on the Utilities panel (the right-side panel)
 
+You can also create an instance of CountryPickerView programmatically:
+
+```swift
+import HeightPickerView
+
+let hptf = HeightPickerTextField()
+```
