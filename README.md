@@ -1,5 +1,14 @@
 # HeightPickerView
 
+* ImperialPicker
+--------
+
+![Logo](https://raw.githubusercontent.com/sunkeeper316/HeightPickerView/master/Screenshots/Screenshots_I.JPG)
+* MetricPicker
+--------
+
+![Logo](https://github.com/sunkeeper316/HeightPickerView/blob/master/Screenshots/Screenshots_M.JPG?raw=true)
+
 ## Installation
 
 ### Swift Package Manager
@@ -15,3 +24,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'HeightPickerView'
 ```
+
+## Usage
+
+
